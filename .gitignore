@@ -1,0 +1,5 @@
+# Datasets and intermediate files -- because they are big and keep changing #
+######################################################
+/src/feature_generators/datasets/
+/src/saved_data/
+/src/tmp/
