@@ -42,4 +42,5 @@ Kindy contact us personally if you'd like to read about our research. It makes u
 
 **8. For Cross Validation results check notebooks `cross_validation.ipynb`.**
 
+
 All the output files are also stored under `results/` and all parameters are hard-coded that have been determined using grid and random search methods. 
